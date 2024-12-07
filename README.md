@@ -13,7 +13,10 @@ A simple Amazon clone web application built with HTML and CSS to replicate the b
 
 ## 📸 Screenshot  
 
-![Amazon Clone](./image.png)
+![image](https://github.com/user-attachments/assets/8e17c920-f7cd-4417-970e-287b1d7abd41)
+![image](https://github.com/user-attachments/assets/13ba4143-8346-49c5-b9d9-a50606d21eff)
+![image](https://github.com/user-attachments/assets/536f324e-4819-4e81-91fb-176ccdc7f8d9)
+
 
 ---
 
